@@ -11,6 +11,7 @@ bin-release/
 *.iml
 *.ipr
 *.iws
+*.fla
 
 # OS generated files
 .DS_Store
